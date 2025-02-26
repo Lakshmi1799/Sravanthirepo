@@ -6,3 +6,4 @@ resource "aws_s3_bucket" "ccit_s3" {
 bucket = "ramsrava-bucket"
 tags = {Name = "ramsrava-bucket" 
 }
+}
