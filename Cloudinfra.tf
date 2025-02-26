@@ -7,3 +7,8 @@ bucket = "ramsrava17-bucket"
 tags = {Name = "ramsrava17-bucket" 
 }
 }
+resource "aws_s3_bucket" "ccit_s3_1" {
+bucket = "ramsrava18-bucket"
+tags = {Name = "ramsrava18-bucket" 
+}
+}
